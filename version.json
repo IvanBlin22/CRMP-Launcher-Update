@@ -1,6 +1,11 @@
 {
- "version":1,
- "files":[
-   "test.txt"
- ]
+ "version":2,
+ "files":  [
+                  {
+                      "path":  "samptest.txt",
+                      "hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+                      "size":  0
+                  }
+              ],
+    "version":  "2026.08.01.0429"
 }
