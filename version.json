@@ -1,10 +1,11 @@
 {
-  "version": 2,
-  "files": [
-    {
-      "path": "samptest.txt",
-      "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
-      "size": 0
-    }
-  ]
+    "files":  [
+                  {
+                      "path":  "samptest.txt",
+                      "url":  "https://raw.githubusercontent.com/IvanBlin22/CRMP-Launcher-Update/main/files/samptest.txt",
+                      "size":  46,
+                      "hash":  "7F71D437C4D02C4CDA9C2CC28A7E173452A639758F1DFDEA9F8D040947F8722D"
+                  }
+              ],
+    "version":  1
 }
